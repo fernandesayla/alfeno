@@ -3,9 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - death
   - animal
+=======
+  tags: []
+>>>>>>> 56f36712805f3d69223dc548538a9e888778a68a
   layers:
   - Default
   - TransparentFX
