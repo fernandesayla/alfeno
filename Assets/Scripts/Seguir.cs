@@ -28,5 +28,7 @@ public class Seguir : MonoBehaviour
     {
 
         this.target = t;
+
+
     }
 }
