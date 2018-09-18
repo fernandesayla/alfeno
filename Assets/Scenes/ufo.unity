@@ -410,8 +410,8 @@ MonoBehaviour:
   target: {fileID: 1380625265}
   animal: {fileID: 1773965927217320, guid: 22b75230bfdffa94f9efa811f07bfdb5, type: 2}
   limitBottom: -7
-  limitLeft: 0
-  limitRight: 0
+  limitLeft: -8
+  limitRight: 8
   time: 3
   floatStrength: 1
 --- !u!4 &539004604
@@ -433,7 +433,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 539004602}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b98d8b96e9eff447e8e1f055d5d7d08e, type: 3}
   m_Name: 
