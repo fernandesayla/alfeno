@@ -20,6 +20,7 @@ public class Seguir : MonoBehaviour
     {
         var journey = target.position - this.transform.position;
         journey = journey.normalized;
+        Debug.Log("Journey: " + journey);
         journey *= this.velo;
         this.transform.position += journey * Time.deltaTime;
     }
@@ -29,6 +30,6 @@ public class Seguir : MonoBehaviour
 
         this.target = t;
 
-
+        Debug.Log(t.tag);
     }
 }
