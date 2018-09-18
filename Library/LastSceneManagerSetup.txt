@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 sceneSetups:
-- path: Assets/ufo.unity
+- path: Assets/Scenes/ufo.unity
   isLoaded: 1
   isActive: 1
-=======
-sceneSetups: []
->>>>>>> 56f36712805f3d69223dc548538a9e888778a68a

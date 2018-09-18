@@ -9,7 +9,7 @@ public class Pontuacao : MonoBehaviour {
     [SerializeField]
     private Text txtPontuacao;
 
-    public  void AdicionarPontuacao(){
+    public  void SubtrairPontuacao(){
         this.pontos--;
         this.txtPontuacao.text = this.pontos.ToString(); 
     }
